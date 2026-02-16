@@ -1,0 +1,7 @@
+node_modules
+.env
+.env.local
+frontend/.next
+backend/prisma/dev.db
+backend/prisma/dev.db-journal
+npm-debug.log*
